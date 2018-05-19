@@ -1,0 +1,49 @@
+D:\LTAT\Chat\Chat\bin\Debug\Chat.exe.config
+D:\LTAT\Chat\Chat\bin\Debug\Chat.exe
+D:\LTAT\Chat\Chat\bin\Debug\Chat.pdb
+D:\LTAT\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+D:\LTAT\Chat\Chat\obj\Debug\A.csproj.GenerateResource.Cache
+D:\LTAT\Chat\Chat\obj\Debug\Chat.exe
+D:\LTAT\Chat\Chat\obj\Debug\Chat.pdb
+D:\LTAT\Chat\Chat\obj\Debug\A.csprojResolveAssemblyReference.cache
+D:\LTAT\Chat\Chat\obj\Debug\A.MayA.resources
+D:\LTAT\Chat(Fixed)\Chat\bin\Debug\Chat.exe.config
+D:\LTAT\Chat(Fixed)\Chat\obj\Debug\Chat.exe
+D:\LTAT\Chat(Fixed)\Chat\obj\Debug\Chat.pdb
+D:\Do An\LT An Toan\Chat(Fixed)\Chat\bin\Debug\Chat.exe.config
+D:\Do An\LT An Toan\Chat(Fixed)\Chat\obj\Debug\Chat.exe
+D:\Do An\LT An Toan\Chat(Fixed)\Chat\obj\Debug\Chat.pdb
+D:\Do An\LT An Toan\Chat(Fixed)\Chat\bin\Debug\Chat.exe
+D:\Do An\LT An Toan\Chat(Fixed)\Chat\bin\Debug\Chat.pdb
+D:\Do An\LT An Toan\Chat(Fixed)\Chat\obj\Debug\A.csprojResolveAssemblyReference.cache
+D:\Do An\LT An Toan\Chat(Fixed)\Chat\obj\Debug\A.MayA.resources
+D:\Do An\LT An Toan\Chat(Fixed)\Chat\obj\Debug\Chat.Properties.Resources.resources
+D:\Do An\LT An Toan\Chat(Fixed)\Chat\obj\Debug\A.csproj.GenerateResource.Cache
+C:\Users\pc\Downloads\Chat(Diffie)\Chat\bin\Debug\Chat.exe.config
+C:\Users\pc\Downloads\Chat(Diffie)\Chat\obj\Debug\Chat.exe
+C:\Users\pc\Downloads\Chat(Diffie)\Chat\obj\Debug\Chat.pdb
+C:\Users\pc\Downloads\Chat(Diffie)\Chat\bin\Debug\Chat.exe
+C:\Users\pc\Downloads\Chat(Diffie)\Chat\bin\Debug\Chat.pdb
+C:\Users\pc\Downloads\Chat(Diffie)\Chat\obj\Debug\A.csprojResolveAssemblyReference.cache
+C:\Users\pc\Downloads\Chat(Diffie)\Chat\obj\Debug\A.MayA.resources
+C:\Users\pc\Downloads\Chat(Diffie)\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\pc\Downloads\Chat(Diffie)\Chat\obj\Debug\A.csproj.GenerateResource.Cache
+D:\Do An\LT An Toan\Chat(Diffie)\Chat\bin\Debug\Chat.exe.config
+D:\Do An\LT An Toan\Chat(Diffie)\Chat\obj\Debug\Chat.exe
+D:\Do An\LT An Toan\Chat(Diffie)\Chat\obj\Debug\Chat.pdb
+D:\Do An\LT An Toan\Chat(Diffie)\Chat\bin\Debug\Chat.exe
+D:\Do An\LT An Toan\Chat(Diffie)\Chat\bin\Debug\Chat.pdb
+D:\Do An\LT An Toan\Chat(Diffie)\Chat\obj\Debug\A.csprojResolveAssemblyReference.cache
+D:\Do An\LT An Toan\Chat(Diffie)\Chat\obj\Debug\A.MayA.resources
+D:\Do An\LT An Toan\Chat(Diffie)\Chat\obj\Debug\Chat.Properties.Resources.resources
+D:\Do An\LT An Toan\Chat(Diffie)\Chat\obj\Debug\A.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Chat(Diffie)\Chat(Diffie)\Chat\bin\Debug\Chat.exe.config
+C:\Users\admin\Downloads\Chat(Diffie)\Chat(Diffie)\Chat\bin\Debug\Chat.exe
+C:\Users\admin\Downloads\Chat(Diffie)\Chat(Diffie)\Chat\bin\Debug\Chat.pdb
+C:\Users\admin\Downloads\Chat(Diffie)\Chat(Diffie)\Chat\obj\Debug\A.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Chat(Diffie)\Chat(Diffie)\Chat\obj\Debug\A.MayA.resources
+C:\Users\admin\Downloads\Chat(Diffie)\Chat(Diffie)\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\admin\Downloads\Chat(Diffie)\Chat(Diffie)\Chat\obj\Debug\A.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Chat(Diffie)\Chat(Diffie)\Chat\obj\Debug\A.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Chat(Diffie)\Chat(Diffie)\Chat\obj\Debug\Chat.exe
+C:\Users\admin\Downloads\Chat(Diffie)\Chat(Diffie)\Chat\obj\Debug\Chat.pdb

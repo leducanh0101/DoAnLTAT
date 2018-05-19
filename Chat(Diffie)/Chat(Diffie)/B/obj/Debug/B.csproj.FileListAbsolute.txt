@@ -1,0 +1,46 @@
+D:\LTAT\Chat\B\bin\Debug\B.exe.config
+D:\LTAT\Chat\B\bin\Debug\B.exe
+D:\LTAT\Chat\B\bin\Debug\B.pdb
+D:\LTAT\Chat\B\obj\Debug\B.csprojResolveAssemblyReference.cache
+D:\LTAT\Chat\B\obj\Debug\B.frmB.resources
+D:\LTAT\Chat\B\obj\Debug\B.Properties.Resources.resources
+D:\LTAT\Chat\B\obj\Debug\B.csproj.GenerateResource.Cache
+D:\LTAT\Chat\B\obj\Debug\B.exe
+D:\LTAT\Chat\B\obj\Debug\B.pdb
+D:\Do An\LT An Toan\Chat(Fixed)\B\bin\Debug\B.exe.config
+D:\Do An\LT An Toan\Chat(Fixed)\B\obj\Debug\B.exe
+D:\Do An\LT An Toan\Chat(Fixed)\B\obj\Debug\B.pdb
+D:\Do An\LT An Toan\Chat(Fixed)\B\bin\Debug\B.exe
+D:\Do An\LT An Toan\Chat(Fixed)\B\bin\Debug\B.pdb
+D:\Do An\LT An Toan\Chat(Fixed)\B\obj\Debug\B.csprojResolveAssemblyReference.cache
+D:\Do An\LT An Toan\Chat(Fixed)\B\obj\Debug\B.frmB.resources
+D:\Do An\LT An Toan\Chat(Fixed)\B\obj\Debug\B.Properties.Resources.resources
+D:\Do An\LT An Toan\Chat(Fixed)\B\obj\Debug\B.csproj.GenerateResource.Cache
+C:\Users\pc\Downloads\Chat(Diffie)\B\bin\Debug\B.exe.config
+C:\Users\pc\Downloads\Chat(Diffie)\B\obj\Debug\B.exe
+C:\Users\pc\Downloads\Chat(Diffie)\B\obj\Debug\B.pdb
+C:\Users\pc\Downloads\Chat(Diffie)\B\bin\Debug\B.exe
+C:\Users\pc\Downloads\Chat(Diffie)\B\bin\Debug\B.pdb
+C:\Users\pc\Downloads\Chat(Diffie)\B\obj\Debug\B.csprojResolveAssemblyReference.cache
+C:\Users\pc\Downloads\Chat(Diffie)\B\obj\Debug\B.frmB.resources
+C:\Users\pc\Downloads\Chat(Diffie)\B\obj\Debug\B.Properties.Resources.resources
+C:\Users\pc\Downloads\Chat(Diffie)\B\obj\Debug\B.csproj.GenerateResource.Cache
+D:\Do An\LT An Toan\Chat(Diffie)\B\bin\Debug\B.exe.config
+D:\Do An\LT An Toan\Chat(Diffie)\B\obj\Debug\B.exe
+D:\Do An\LT An Toan\Chat(Diffie)\B\obj\Debug\B.pdb
+D:\Do An\LT An Toan\Chat(Diffie)\B\bin\Debug\B.exe
+D:\Do An\LT An Toan\Chat(Diffie)\B\obj\Debug\B.csprojResolveAssemblyReference.cache
+D:\Do An\LT An Toan\Chat(Diffie)\B\obj\Debug\B.frmB.resources
+D:\Do An\LT An Toan\Chat(Diffie)\B\obj\Debug\B.Properties.Resources.resources
+D:\Do An\LT An Toan\Chat(Diffie)\B\obj\Debug\B.csproj.GenerateResource.Cache
+D:\Do An\LT An Toan\Chat(Diffie)\B\bin\Debug\B.pdb
+C:\Users\admin\Downloads\Chat(Diffie)\Chat(Diffie)\B\bin\Debug\B.exe.config
+C:\Users\admin\Downloads\Chat(Diffie)\Chat(Diffie)\B\bin\Debug\B.exe
+C:\Users\admin\Downloads\Chat(Diffie)\Chat(Diffie)\B\bin\Debug\B.pdb
+C:\Users\admin\Downloads\Chat(Diffie)\Chat(Diffie)\B\obj\Debug\B.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Chat(Diffie)\Chat(Diffie)\B\obj\Debug\B.frmB.resources
+C:\Users\admin\Downloads\Chat(Diffie)\Chat(Diffie)\B\obj\Debug\B.Properties.Resources.resources
+C:\Users\admin\Downloads\Chat(Diffie)\Chat(Diffie)\B\obj\Debug\B.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Chat(Diffie)\Chat(Diffie)\B\obj\Debug\B.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Chat(Diffie)\Chat(Diffie)\B\obj\Debug\B.exe
+C:\Users\admin\Downloads\Chat(Diffie)\Chat(Diffie)\B\obj\Debug\B.pdb
